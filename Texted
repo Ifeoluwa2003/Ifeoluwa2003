@@ -1,0 +1,31 @@
+ <!Doctilehtml>
+<html>
+    <head>
+        <title>Page Title</title>
+    </head>
+    <body bgcolor="beige"
+    onload="myFunction()">
+<center><font style="font-family:times new roman" size="2"><h1>What Are The Implications Of Climate  Change On Human Rights, And How Can Human Rights Be Safeguarded In Light Of Climate Change?</h1></center>
+<center><font style="font-family:times new roman" size="3"><h4>Welcome To My Page</h4>
+
+<p><b>What Are The Implications Of Climate Change On Human Rights</b></p>
+<img width="306px" height="180px"
+src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsKi86U0eGxRErX7NFIabCy2bQOOm88XP9vw&usqp=CAU">
+<p><b>The implications of climate change on human rights are water,sanitation,food,health,housing and self-determination.</b>
+<img width="309px" height="198px"
+src="https://www.who.int/images/default-source/health-and-climate-change/risk-pathways-climate-health.jpg?Status=Master&sfvrsn=3ba050b0_5">
+<p><b>Climate change affects the social and environmental determinants of health- clean air,safe drinking water,sufficient food and secure shelter.</b></p>
+
+<p><b>How Can Human Rights Be Safeguarded In Light Of Climate Change</b></p>
+<center><img width="309px" height="198px"
+src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0ETuVPk2X2VaYlSMiMk1x1MNFB5NmXcbPTg&usqp=CAU"></center>
+<font style="font-family:times new roman"></
+<p><b>Human rights can be safeguarded in the light of climate change through avoiding burning rubber, using boidegradable plastic recycling recyclable materials,and using renewable energy.</b></p>
+<script>
+    function myFunction()
+    {
+    alert("What Are The Implications Of Climate Change On Human Rights, And How Can Human Rights Be Safeguarded In Light Of Climate Change")
+    }
+</script>
+   </body>
+</html>
